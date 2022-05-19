@@ -1,0 +1,1 @@
+Git bash é basicamente um console onde sou capaz de criar diretorios, mexer nos arquivos que tem na maquina, e deletar arquivos.
