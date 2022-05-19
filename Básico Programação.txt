@@ -1,0 +1,11 @@
+Variaveis é uma estrutura q recebe um tipo de dado mas n tem ctz de seu  valor, e está restrita ao seu tipo.
+Tipos – numéricos = inteiros e reais, int não possui casa decimal
+Real tem casas decimais
+
+Caractere – não representado com um numero 
+Lógico – Booleano 0 e 1, true or false 
+
+
+Operadores – binários ou unários 
++ e – são unários 
+Todo o resto é considerado binário 
